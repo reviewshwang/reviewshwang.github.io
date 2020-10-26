@@ -9,7 +9,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 https://reviewshwang.github.io/poole/
 paginate:            1
-baseurl:             ""
+baseurl:             "https://reviewshwang.github.io/poole/"
 
 # Assets
 #
