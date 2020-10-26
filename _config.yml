@@ -6,9 +6,9 @@ permalink:           pretty
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 https://reviewshwang.github.io/poole/
+url:                 https://reviewshwang.github.io
 paginate:            1
-baseurl:             "https://reviewshwang.github.io/poole/"
+baseurl:             "/poole/"
 
 # Assets
 #
