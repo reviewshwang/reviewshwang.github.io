@@ -1,0 +1,5 @@
+current directory: /home/sungwon/ws/reviewshwang.github.io/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
+/usr/bin/ruby2.5 -r ./siteconf20201027-7030-jhi7sx.rb extconf.rb
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+extconf failed, exit code 1
