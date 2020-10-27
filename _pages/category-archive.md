@@ -1,6 +1,6 @@
 ---
 title: "Self-Supervised Learning"
 layout: categories
-permalink: /cssl/
+permalink: /ssl/
 author_profile: false
 ---
