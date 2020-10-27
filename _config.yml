@@ -93,9 +93,9 @@ analytics:
 # Site Author
 author:
   name             : "Sungwon Hwang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/casual_profile.jpeg"
   bio              : ""
-  location         : "Somewhere"
+  location         : ""
   email            : "shwang.14@kaist.ac.kr"
   links:
     - label: "Email"
