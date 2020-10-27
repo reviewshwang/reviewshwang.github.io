@@ -1,6 +1,7 @@
 ---
 title: "Self-Supervised Learning"
 permalink: /ssl/
+layout: category
 author_profile: false
 taxonomy: ssl
 ---
