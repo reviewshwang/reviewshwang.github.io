@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paper Reviews"
+title                    : "Paper Highlights"
 subtitle                 : ""
 name                     : "Sungwon Hwang"
 description              : "I try to summarize papers that matters to me"
@@ -95,7 +95,7 @@ author:
   name             : "Sungwon Hwang"
   # avatar           : "/assets/images/casual_profile.jpeg"
   bio              : "shwang.14@kaist.ac.kr"
-  # location         : ""
+  # location         : "Archive of paper highlights. I don't go through all the details, but underlines significance and smart ideas proposed by the papers."
   email            : "shwang.14@kaist.ac.kr"
   links:
     - label: "Email"
